@@ -1,11 +1,6 @@
-# 📚 Computer Science Notes
+#  Computer Science Notes
 
 Bu repo, bilgisayar bilimleri ve işletim sistemi temelleri üzerine hazırlanmış notları içermektedir.
-
-## İçerik
-
-- 🧠 İşletim Sistemi Temelleri
-- 💻 Bilgisayar Bilimleri Temelleri
 
 ## Amaç
 
