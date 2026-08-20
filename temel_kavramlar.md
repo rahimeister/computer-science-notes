@@ -27,7 +27,7 @@ RAM'in temel özellikleri:
 
 - Hızlı veri erişimi sağlar.
 - Geçici veri depolama alanıdır.
-- Progranların çalışmasını hızlandırır.
+- Programların çalışmasını hızlandırır.
 
 
 ## Önbellek (Cache)
