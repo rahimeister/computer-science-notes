@@ -67,9 +67,9 @@ Dinamik olarak oluşturulan veriler Heap içerisinde tutulur. Stack'e göre daha
 
 
 #### Heap örneği 
-
+```
 liste = [1, 2, 3, 4, 5]
-
+```
 Bu örnekte oluşturulan liste Heap belleğinde saklanır.
 
 
@@ -104,15 +104,16 @@ Garbage Collection süreci genel olarak üç aşamadan oluşur.
 
 #### 1. Nesnelerin oluşturlması 
 
+```
 veri = [10, 20, 30]
-
+```
 Nesne Heap belleğinde oluşturulur.
 
 
 #### 2. Referansların İzlenmesi 
-
+```
 veri = None 
-
+```
 Nesneye ait referans kaldırılır. 
 
 
