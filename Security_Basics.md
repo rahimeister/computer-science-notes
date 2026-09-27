@@ -569,20 +569,20 @@ OAuth ise uygulamanın harici bir kimlik sağlayıcısı veya kaynak sunucusu il
 ## 14. Güvenlik Kontrol Listesi 
 Bir web uygulaması geliştirirken aşağıdaki maddeler kontrol edilebilir. 
 
-[ ] Authentication doğru şekilde uygulanıyor mu?
-[ ] Authorization kontrolleri yapılıyor mu? 
-[ ] Kullanıcıların yetkileri sınırlandırılıyor mu? 
-[ ] Şifreler güvenli şekilde hashleniyor mu? 
-[ ] JWT kullanılıyorsa token güvenliği sağlanıyor mu? 
-[ ] OAuth akışı doğru uygulanıyor mu? 
-[ ] SQL Injection'a karşı parametreli sorgular kullanılıyor mu? 
-[ ] Kullanıcı girdileri güvenilir kabul edilmiyor mu? 
-[ ] XSS'e karşı güvenli çıktı işleme uygulanıyor mu? 
-[ ] Hassas bilgiler kaynak kodunda tutulmuyor mu? 
-[ ] HTTPS kullanılıyor mu? 
-[ ] Cookie güvenlik özellikleri uygun şekilde yapılandırılıyor mu? 
-[ ] Hata mesajlarında hassas bilgiler gösterilmiyor mu? 
-[ ] Gereksiz veritabanı ve sistem yetkileri kaldırılıyor mu?
+- [ ] Authentication doğru şekilde uygulanıyor mu?
+- [ ] Authorization kontrolleri yapılıyor mu? 
+- [ ] Kullanıcıların yetkileri sınırlandırılıyor mu? 
+- [ ] Şifreler güvenli şekilde hashleniyor mu? 
+- [ ] JWT kullanılıyorsa token güvenliği sağlanıyor mu? 
+- [ ] OAuth akışı doğru uygulanıyor mu? 
+- [ ] SQL Injection'a karşı parametreli sorgular kullanılıyor mu? 
+- [ ] Kullanıcı girdileri güvenilir kabul edilmiyor mu? 
+- [ ] XSS'e karşı güvenli çıktı işleme uygulanıyor mu? 
+- [ ] Hassas bilgiler kaynak kodunda tutulmuyor mu? 
+- [ ] HTTPS kullanılıyor mu? 
+- [ ] Cookie güvenlik özellikleri uygun şekilde yapılandırılıyor mu? 
+- [ ] Hata mesajlarında hassas bilgiler gösterilmiyor mu? 
+- [ ] Gereksiz veritabanı ve sistem yetkileri kaldırılıyor mu?
 
 
 ---
